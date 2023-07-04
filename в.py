@@ -28,7 +28,18 @@
   <input class="btn btn-danger"  type="button" value="Войти">
   <textarea cols="20" rows="3"></textarea>
 </form>
+<div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Сдожность
+  </a>
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">лв1</a></li>
+    <li><a class="dropdown-item" href="#">лв2</a></li>
+    <li><a class="dropdown-item" href="#">лв3</a></li>
+  </ul>
+</div>
 </body>
+</html>
 </html>
 
 
